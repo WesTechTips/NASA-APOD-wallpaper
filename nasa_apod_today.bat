@@ -1,0 +1,1 @@
+python ./nasa_wallpaper.py
